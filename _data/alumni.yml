@@ -1,5 +1,11 @@
+- name: IIT Gandhinagar
+  photo: rock.jpg
+  duration: 2017-2022
+  info: Now at PRL, Ahmedabad
+  email: aravind.k@iitgn.co.in 
+  
 - name: Loyola College, Chennai
   photo: rock.jpg
   duration: 2013-2015
-  info: Now at PRL, Ahmedabad
+  info: M.Sc Physics
   email: aravind139@gmail.com
