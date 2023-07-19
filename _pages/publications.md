@@ -46,7 +46,11 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
     font-weight: 300;
 }
 
-
+.authors {
+    font-size: 16px;
+    font-weight: 500;
+    font-style: italic;
+}
 
 </style>
 
@@ -56,7 +60,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <div class="publication">
 <h3>Feynman lectures on the strong interactions</h3>
 
-<p>R. P. Feynman and J. M. Cline</p>
+<p class="authors">R. P. Feynman and J. M. Cline</p>
 <p>Note: arXiv:2006.08594</p>
 <p>DOI: 2006.08594</p>
 
