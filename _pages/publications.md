@@ -8,48 +8,48 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <style>
 .jumbotron{
-    padding:3%;
-    padding-bottom:10px;
-    padding-top:10px;
-    margin-top:10px;
-    margin-bottom:30px;
+  padding:3%;
+  padding-bottom:10px;
+  padding-top:10px;
+  margin-top:10px;
+  margin-bottom:30px;
 }
 
 .publication {
-    padding:3%;
-    padding-bottom:10px;
-    padding-top:10px;
-    margin-top:10px;
-    margin-bottom:30px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
+  padding:3%;
+  padding-bottom:10px;
+  padding-top:10px;
+  margin-top:10px;
+  margin-bottom:30px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
 }
 
 .publication h3 {
-    margin-top: 0;
-    margin-bottom: 10px;
-    font-size: 24px;
-    font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: 600;
 }
 
 .publication h4 {
-    margin-top: 0;
-    margin-bottom: 5px;
-    font-size: 18px;
-    font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 18px;
+  font-weight: 500;
 }
 
 .publication p {
-    margin-top: 0;
-    margin-bottom: 10px;
-    font-size: 16px;
-    font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 300;
 }
 
 .authors {
-    font-size: 16px;
-    font-weight: 500;
-    font-style: italic;
+  font-size: 16px;
+  font-weight: 500;
+  font-style: italic;
 }
 
 </style>
