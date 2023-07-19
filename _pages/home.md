@@ -16,9 +16,10 @@ Theoretical physics helps us to make progress in a wide range of fields, includi
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/borisov.png" width="100%"/><br/>
+Spectrum of First Interstellar comet 2I/Borisov. <br/>
+K. Aravind, Activity of the first interstellar comet 2I/Borisov around perihelion:
+Results from Indian observatories <i>MNRAS</i> (2021)
 </center>
 </div>
 </div>
