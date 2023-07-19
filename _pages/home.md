@@ -7,11 +7,7 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+Comets, those celestial marvels composed of dust, rock, and ice, hold paramount importance in the field of astronomy and space exploration. Observing comets provides us with invaluable insights into the early stages of our solar system's formation, offering a glimpse into the primordial material from which planets and other celestial bodies emerged. The study of comets also plays a pivotal role in understanding the intricate interplay between the Sun and its surroundings, shedding light on the dynamic processes occurring in the outer reaches of our cosmic neighbourhood. Furthermore, comets' mesmerizing tails, created as they approach the Sun, serve as captivating cosmic laboratories, revealing crucial information about the solar wind and the composition of the interplanetary medium. By exploring these celestial nomads, from our Solar system and external Stellar systems, we deepen our comprehension of the universe's origins and evolution, unlocking the secrets that have shaped our existence and potentially providing insights into other planetary systems beyond our own. Join me in the quest to explore the significance of comets and their profound impact on our understanding of the cosmos.
 
 <div class="container">
 <div class="row">
@@ -27,8 +23,7 @@ Results from Indian observatories <i>MNRAS</i> (2021)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
-
+I am a physicist working in the field of observational astronomy.
+I received my undergraduate degree in physics from the Sacred Heart College, Thevara situated in Kerala, India in 2013, my post-graduate degree in physics from the Loyola College, Cehnnai situated in Tamil Nadu, India in 2015  and went on to earn my PhD from IIT Gandhinagar by working in Physical Research Laboratory, Ahmedabad, India in 2023.
+Other than research, My passion for sports is an unstoppable force that drives me to new heights of excitement and achievement. Whether it's the thrill of a perfectly executed football goal, the lightning-fast reflexes required in badminton, the camaraderie of a competitive volleyball match, or the precision and finesse of table tennis, each sport ignites a fire within me. The relentless pursuit of excellence and the joy of playing with teammates and opponents alike fuel my dedication to these dynamic and adrenaline-pumping activities. Sports not only keep me physically fit but also teach me valuable life lessons about teamwork, discipline, and resilience. In the arena of sports, I find my truest self, where every moment is an opportunity to push my limits and embrace the spirit of sportsmanship.
+I am proficient in playing the Mrudangam, an ancient Indian percussion instrument, and well-versed in the art of yoga, nurturing a harmonious balance between rhythm and inner peace.
