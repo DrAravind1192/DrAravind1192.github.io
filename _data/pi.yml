@@ -1,22 +1,22 @@
-- name: Dr. Richard Feynman
+- name: Dr. Aravind K
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  info: Post Doctoral Fellow, PRL, Ahmedabad, India
+  email: aravind139@gmail.com
+  #github: https://github.com/
+  researchgate: https://www.researchgate.net/profile/Aravind-Krishnakumar
+  scholar: https://scholar.google.com/citations?user=63MKgTkAAAAJ&hl=en
+  cv: papers/CV.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
-  # education3: 
+  number_educ: 3
+  education1: "(2023) Ph.D. Astronomy and Astrophysics, IIT Gandhinagar"
+  education2: "(2015) M.Sc. Physics, Loyola College, Madras University, Chennai, India"
+  education3: "(2013) M.Sc. Physics, Sacred Heart College, Mahatma Gandhi University, Kerala, India"
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
-  # education3short: 
+  education1short: (2023) Ph.D. Astronomy and Astrophysics, IITGN
+  education2short: (2015) M.Sc Physics, Loyola Chennai
+  education3short: (2013) B.Sc Physics, SH Thevara
   # education4short: 
   # education5short: 
   # education6short: 
