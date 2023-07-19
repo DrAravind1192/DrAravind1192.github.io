@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Aravind K
+email: aravind139@gmail.com
+description: Academic webpage of Dr. Aravind K
 baseurl: ""
 url: ""
 
@@ -12,17 +12,16 @@ url: ""
 
 # Footer info
 affiliation: >
-    Richard Feynman<br/>
-    Professor of Physics<br/>
-    California Institute of Technology
+    Aravind K<br/>
+    Post Doctoral Fellow<br/>
+    Physical Research Laboratory
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
-
+  Physical Research Laboratory<br/>
+  Ahmedabad 380009<br/>
+  India
 contact: >
-    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+    <a href="mailto:aravind139@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Aravind via email</a> <br/>
     <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
@@ -31,9 +30,9 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
-  - name: team
-  - name: teaching
+#  - name: software
+#  - name: team
+#  - name: teaching
 
 include:
   - .htaccess
