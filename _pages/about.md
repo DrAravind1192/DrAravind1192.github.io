@@ -11,7 +11,7 @@ permalink: /about/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-3">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo1 }}" width="100%" style="max-width:280px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo1 }}" width="100%" style="max-width:320px"/>
 </div>
 <div class="col-sm-3">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:400px"/>
