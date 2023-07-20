@@ -13,7 +13,7 @@ Comets, those celestial marvels composed of dust, rock, and ice, hold paramount 
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/borisov.png" width="60%"/><br/>
-Spectrum of First Interstellar comet 2I/Borisov. <br/>
+Spectrum of the First Interstellar comet 2I/Borisov. <br/>
 K. Aravind, Activity of the first interstellar comet 2I/Borisov around perihelion:<br/>
 Results from Indian observatories, <i>MNRAS</i> (2021)
 </center>
