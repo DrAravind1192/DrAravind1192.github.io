@@ -10,13 +10,13 @@ permalink: /about/
 {% for member in site.data.pi %}
 <div class="jumbotron">
 <div class="row">
-<div class="col-sm-2">
+<div class="col-sm-3">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo1 }}" width="100%" style="max-width:250px"/>
 </div>
 <div class="col-sm-4">
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:350px"/>
 </div>
-<div class="col-sm-6 col-xs-12">
+<div class="col-sm-5 col-xs-12">
   <h3>{{ member.name }}</h3>
   <h4><i>{{ member.info }}</i></h4>
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
