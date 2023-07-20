@@ -14,7 +14,7 @@ permalink: /about/
   <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo1 }}" width="100%" style="max-width:250px"/>
 </div>
 <div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:250px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo2 }}" width="100%" style="max-width:350px"/>
 </div>
 <div class="col-sm-6 col-xs-12">
   <h3>{{ member.name }}</h3>
