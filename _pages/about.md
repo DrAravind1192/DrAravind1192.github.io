@@ -27,9 +27,9 @@ permalink: /about/
   <!--{% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}-->
   
 
-  <ul style="overflow: hidden">
-  **Place | Date of Birth**: Kerala, India | 11 March 1992
-  </ul>
+  <!-- <ul style="overflow: hidden"> -->
+**Place | Date of Birth**: Kerala, India | 11 March 1992
+ <!-- </ul> -->
 </div>
 </div>
 </div>
@@ -40,7 +40,7 @@ permalink: /about/
 <div class="row">
 {% for member in site.data.pi %}
 <div class="col-sm-6">
-   <h4>Education</h4>
+   ### Education
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
@@ -95,12 +95,16 @@ permalink: /about/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-6">
- <h4>Personal Data</h4>
-  <h4>Interests and Extracurricular activities</h4>
-  
+ <!-- <h4>Personal Data</h4> -->
+<h4>Interests and Extracurricular activities</h4>
+
+  <li> Trained in yoga and Mrudangam </li>
 </div>
 <div class="col-sm-6">
-  <h4>Technical Skills</h4>
+<h4>Technical Skills</h4>
+
+ **Programming Languages and Softwares**:
+  **Telescope observations**
 </div>
 </div>
 </div>
