@@ -98,8 +98,8 @@ permalink: /about/
 <div class="col-sm-6">
 ### Interests and Extracurricular activities
 <ul>
-{% for award in site.data.interests %}
- <li> {{ interests.name | replace: "-","&#8211;"}} </li>
+{% for interest in site.data.interests %}
+ <li> {{ interest.name | replace: "-","&#8211;"}} </li>
 {% endfor %}
 </ul>
 </div>
@@ -109,8 +109,8 @@ permalink: /about/
 <div class="col-sm-6">
 ### Technical skills
 <ul>
-{% for award in site.data.skills %}
- <li> {{ skills.name | replace: "-","&#8211;"}} </li>
+{% for skill in site.data.skills %}
+ <li> {{ skill.name | replace: "-","&#8211;"}} </li>
 {% endfor %}
 </ul>
 </div>
