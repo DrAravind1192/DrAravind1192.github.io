@@ -39,43 +39,43 @@ permalink: /about/
 <div class="jumbotron">
 <div class="row">
 {% for member in site.data.pi %}
-<div class="col-sm-6">
-   ### Education
-  <ul style="overflow: hidden">
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education5 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  {% if member.number_educ == 6 %}
-  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education5 | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education6 | replace: "-","&#8211;"}} </li>
-  {% endif %}
-  </ul>
+<div class="col-sm-6"> 
+### Education
+<ul> <!-- style="overflow: hidden"> -->
+{% if member.number_educ == 1 %}
+<li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_educ == 2 %}
+<li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_educ == 3 %}
+<li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education3 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_educ == 4 %}
+<li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education3 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education4 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_educ == 5 %}
+<li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education3 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education4 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education5 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_educ == 6 %}
+<li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education3 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education4 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education5 | replace: "-","&#8211;"}} </li>
+<li> {{ member.education6 | replace: "-","&#8211;"}} </li>
+{% endif %}
+</ul>
 </div>
 {% endfor %}
 
@@ -94,17 +94,26 @@ permalink: /about/
 
 <div class="jumbotron">
 <div class="row">
+{% if site.data.interests %}
 <div class="col-sm-6">
- <!-- <h4>Personal Data</h4> -->
-<h4>Interests and Extracurricular activities</h4>
-
-  <li> Trained in yoga and Mrudangam </li>
+### Interests and Extracurricular activities
+<ul>
+{% for award in site.data.interests %}
+ <li> {{ interests.name | replace: "-","&#8211;"}} </li>
+{% endfor %}
+</ul>
 </div>
+{% endif %}
+
+{% if site.data.skills %}
 <div class="col-sm-6">
-<h4>Technical Skills</h4>
-
- **Programming Languages and Softwares**:
-  **Telescope observations**
+### Technical skills
+<ul>
+{% for award in site.data.skills %}
+ <li> {{ skills.name | replace: "-","&#8211;"}} </li>
+{% endfor %}
+</ul>
 </div>
+{% endif %}
 </div>
 </div>
