@@ -70,13 +70,58 @@ permalink: /about/
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-6">
-  ## **Personal Data**
+ <h4>Personal Data</h4>
+
+  **Place | Date of Birth**: Kerala, India | 11 March 1992
+  <h4>Interests and Extracurricular activities</h4>
+  
 </div>
 <div class="col-sm-6">
-  ## **Interests and Extracurricular activities**
+  <h4>Interests and Extracurricular activities</h4>
 </div>
 </div>
 </div>
+
+{% for member in site.data.pi %}
+<div class="jumbotron">
+  ### Education
+  <ul style="overflow: hidden">
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+  {% endif %}
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+  {% endif %}
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
+  {% endif %}
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
+  {% endif %}
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education5 | replace: "-","&#8211;"}} </li>
+  {% endif %}
+  {% if member.number_educ == 6 %}
+  <li> {{ member.education1 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education2 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education3 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education4 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education5 | replace: "-","&#8211;"}} </li>
+  <li> {{ member.education6 | replace: "-","&#8211;"}} </li>
+  {% endif %}
+  </ul>
+</div>
+{% endfor %}
 
 {% if site.data.awards %}
 <div class="jumbotron">
