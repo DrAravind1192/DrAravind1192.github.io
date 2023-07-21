@@ -67,6 +67,17 @@ permalink: /about/
 </div>
 {% endfor %}
 
+<div class="jumbotron">
+<div class="row">
+<div class="col-sm-6">
+  ### Personal Data
+</div>
+<div class="col-sm-6">
+  ### Interests and Extracurricular activities
+</div>
+</div>
+</div>
+
 {% if site.data.awards %}
 <div class="jumbotron">
 ### Awards
