@@ -12,11 +12,11 @@
   cv: papers/CV.pdf
   # Change the number below to the number of "educations" you have (up to 6)
   number_educ: 5
-  education1: (2017 - 2022) PhD in Astronomy & Astrophysics, PRL, Ahmedabad, India. Thesis title - Observational analysis of Cometary bodies in the Solar system.
-  education2: (2013 - 2015) M.Sc. Physics, Loyola College, Chennai, University of Madras, India. Dissertation- Wet Chemical Synthesis and Characterization of CdS Nanoparticles.
-  education3: (2010 - 2013) B.Sc. Physics, Sacred Heart College, Thevara, Mahatma Gandhi University, Kerala
-  education4: (2010)        Class XII Central Board of Secondary Education, Kerala, India
-  education5: (2008)        Class X Central Board of Secondary Education, Kerala, India
+  education1: (2017 - 2022)-PhD in Astronomy & Astrophysics, PRL, Ahmedabad, India. Thesis title - Observational analysis of Cometary bodies in the Solar system.
+  education2: (2013 - 2015)-M.Sc. Physics, Loyola College, University of Madras, India. Dissertation - Wet Chemical Synthesis and Characterization of CdS Nanoparticles.
+  education3: (2010 - 2013)-B.Sc. Physics, Sacred Heart College, Thevara, Mahatma Gandhi University, Kerala
+  education4: (2010)-Class XII Central Board of Secondary Education, Kerala, India
+  education5: (2008)-Class X Central Board of Secondary Education, Kerala, India
   # education6: 
   education1short: (2023) Ph.D.Physics, IIT Gandhinagar
   education2short: (2015) M.Sc Physics, Loyola, Chennai
