@@ -104,8 +104,8 @@ permalink: /about/
 </ul>
 <div class="container">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/mrudangam.jpg" width="60%"/><br/>
-Jugalbandi perfomance at PRL Ramanathan Auditorium. <br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/interests.jpg" width="80%"/><br/>
+Collection of snapshots of various interests <br/>
 </center>
 </div>
 <br/>
@@ -122,8 +122,8 @@ Jugalbandi perfomance at PRL Ramanathan Auditorium. <br/>
 </ul>
 <div class="container">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/stars.jpg" width="60%"/><br/>
-Under the blanket of stars at Mt. Abu observatory. <br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/skills.jpg" width="60%"/><br/>
+At Mt.Abu Observatory. <br/>
 </center>
 </div>
 <br/>
