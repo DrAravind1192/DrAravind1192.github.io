@@ -102,6 +102,15 @@ permalink: /about/
  <li> {{ interest.name | replace: "-","&#8211;"}} </li>
 {% endfor %}
 </ul>
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/mrudangam.jpg" width="60%"/><br/>
+Jugalbandi perfomance at PRL Ramanathan Auditorium. <br/>
+</center>
+</div>
+</div>
+<br/>
 </div>
 {% endif %}
 
@@ -113,6 +122,15 @@ permalink: /about/
  <li> {{ skill.name | replace: "-","&#8211;"}} </li>
 {% endfor %}
 </ul>
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/stars.jpg" width="60%"/><br/>
+Under the blanket of stars at Mt. Abu observatory. <br/>
+</center>
+</div>
+</div>
+<br/>
 </div>
 {% endif %}
 </div>
