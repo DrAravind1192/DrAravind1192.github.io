@@ -96,7 +96,7 @@ permalink: /about/
 <div class="row">
 {% if site.data.interests %}
 <div class="col-sm-6">
-### Interests and Extracurricular activities
+### Extracurricular activities
 <ul>
 {% for interest in site.data.interests %}
  <li> {{ interest.name | replace: "-","&#8211;"}} </li>
