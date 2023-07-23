@@ -122,7 +122,7 @@ Collection of snapshots of various interests <br/>
 </ul>
 <div class="container">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/skills.jpg" width="60%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/skills.jpg" width="80%"/><br/>
 At Mt.Abu Observatory. <br/>
 </center>
 </div>
