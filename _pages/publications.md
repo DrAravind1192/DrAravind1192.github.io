@@ -61,7 +61,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
   <h3>Activity of the first interstellar comet 2I/Borisov around perihelion: Results from Indian observatories</h3>
 
   <p class="authors">K. Aravind, Shashikiran Ganesh, Kumar Venkataramani, Devendra Sahu, Dorje Angchuk, Thirupathi Sivarani and Athira Unni </p>
-  <p>Note: arXiv:<a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
+  <p>arXiv: <a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
   <p>DOI: <a href="https://doi.org/10.1093/mnras/stab084">10.1093/mnras/stab084</a></p>
 
   <h4>Abstract:</h4>
@@ -73,7 +73,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
   <h3>Optical observations and dust modelling of comet 156P/Russell-LINEAR</h3>
 
   <p class="authors">K. Aravind, Prithish Halder, Shashikiran Ganesh,Devendra Sahu, Miquel Serra-Ricart, Jose. J. Chambo, Dorje Angchuk, and Thirupathi Sivarani</p>
-  <p>Note: arXiv:<a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
+  <p>arXiv: <a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
   <p>DOI: <a href="https://doi.org/10.1016/j.icarus.2022.115042">10.1016/j.icarus.2022.115042</a></p>
 
   <h4>Abstract:</h4>
@@ -84,7 +84,6 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
   <h3>Unique regolith characteristics of the lunar swirl Reiner Gamma as revealed by imaging polarimetry at large phase angles</h3>
 
   <p class="authors">M. Bhatt, C. Wöhler, J. Rogall, K. Aravind, S. Ganesh and A. Bhardwaj</p>
-  <p>Note: arXiv: NA </p>
   <p>DOI: <a href="https://doi.org/10.1016/j.icarus.2022.115042">10.1016/j.icarus.2022.115042</a></p>
 
   <h4>Abstract:</h4>
@@ -100,35 +99,46 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
 <div class="jumbotron">
 ### Refereed conference proceedings
   <div class="publication">
-  <h3>Solar system studies with the Indo-Belgian telescopes.</h3>
+  <h3>1) Solar system studies with the Indo-Belgian telescopes.</h3>
   <p class="authors">Ganesh, S., Krishnakumar, A., Venkataramani, K., et al.</p>
   <p>DOI: <a href="https://doi.org/10.25518/0037-9565.8669">10.25518/0037-9565.8669</a></p>
-  <p>Journal: Bulletin de la Societe Royale des Sciences de Liege, 88, 65. </p>
-  <p>Year: 2019 </p>
+  <p>JOURNAL: Bulletin de la Societe Royale des Sciences de Liege, 88, 65. </p>
+  <p>YEAR: 2019 </p>
+    
+  <hr>  
   
-
-  
-  <h3>EMPOL: an EMCCD based optical imaging polarimeter.</h3>
+  <h3>2) EMPOL: an EMCCD based optical imaging polarimeter.</h3>
   <p class="authors">Ganesh, S., Rai, A., Aravind, K., et al.</p>
   <p>DOI: <a href="https://doi.org/10.1117/12.2560949">10.1117/12.2560949</a></p>
-  <p>Journal: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 114479E </p>
-  <p>Year: 2020 </p>
+  <p>JOURNAL: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 114479E </p>
+  <p>YEAR: 2020 </p>
+
+  <hr>
 
   <h3>Regolith Characteristics of the Reiner Gamma Swirl as Revealed by Polarimetric Observations.</h3>
   <p class="authors">Bhatt M., W”ohler C., Aravind K., Ganesh S., Bharadwaj A.</p>
   <p>DOI: <a href="https://www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf">www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf</a></p>
-  <p>Journal: 52nd Lunar and Planetary Science Conference</p>
-  <p>Year: 2021 </p>
+  <p>JOURNAL: 52nd Lunar and Planetary Science Conference</p>
+  <p>YEAR: 2021 </p>
 
-  <h3>Optical spectroscopy of comets.</h3>
+  <hr>
+
+  <h3>3) Optical spectroscopy of comets.</h3>
   <p class="authors">K. Aravind, Shashikiran Ganesh.</p>
   <p>DOI: Under review</p>
-  <p>Journal: Bulletin of Liege Royal Society of Sciences.</p>
-  <p>Year: 2023 </p>
+  <p>JOURNAL: Bulletin of Liege Royal Society of Sciences.</p>
+  <p>YEAR: 2023 </p>
   </div>
   
 </div>
 
 <div class="jumbotron">
 ### Under Preperation
+  <div class="publication">
+  <h3>1) Long term spectroscopic monitoring of comet 46P/Wirtanen.</h3>
+  <p class="authors">K. Aravind, Kumar Venkataramani, Shashikiran Ganesh.</p>
+  <p>JOURNAL: Journal of Astronomy & Astrophysics. </p>
+  <p>YEAR: 2023 </p>
+  
+  </div>
 </div>
