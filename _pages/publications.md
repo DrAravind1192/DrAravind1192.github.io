@@ -115,7 +115,7 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
 
   <hr>
 
-  <h3>Regolith Characteristics of the Reiner Gamma Swirl as Revealed by Polarimetric Observations.</h3>
+  <h3>3) Regolith Characteristics of the Reiner Gamma Swirl as Revealed by Polarimetric Observations.</h3>
   <p class="authors">Bhatt M., W”ohler C., Aravind K., Ganesh S., Bharadwaj A.</p>
   <p>DOI: <a href="https://www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf">www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf</a></p>
   <p>JOURNAL: 52nd Lunar and Planetary Science Conference</p>
@@ -123,7 +123,7 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
 
   <hr>
 
-  <h3>3) Optical spectroscopy of comets.</h3>
+  <h3>4) Optical spectroscopy of comets.</h3>
   <p class="authors">K. Aravind, Shashikiran Ganesh.</p>
   <p>DOI: Under review</p>
   <p>JOURNAL: Bulletin of Liege Royal Society of Sciences.</p>
