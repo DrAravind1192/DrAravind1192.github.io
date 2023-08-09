@@ -58,26 +58,41 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 ### Refereed journal articles
 
 <div class="publication">
-  <h3>Feynman lectures on the strong interactions</h3>
+  <h3>Activity of the first interstellar comet 2I/Borisov around perihelion: Results from Indian observatories</h3>
 
   <p class="authors">K. Aravind, Shashikiran Ganesh, Kumar Venkataramani, Devendra Sahu, Dorje Angchuk, Thirupathi Sivarani and Athira Unni </p>
   <p>Note: arXiv:<a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
-  <p>DOI: <a href="https://doi.org/10.1093/mnras/stab084">10.1093/mnras/stab084/</a></p>
+  <p>DOI: <a href="https://doi.org/10.1093/mnras/stab084">10.1093/mnras/stab084</a></p>
 
   <h4>Abstract:</h4>
-  Comet 2I/Borisov is the first true interstellar comet discovered. Here, we present results from observational programs at two Indian observatories, 2 m Himalayan Chandra Telescope at the Indian Astronomical Observatory, Hanle (HCT) and 1.2 m telescope at the Mount Abu Infrared Observatory (MIRO). Two epochs of imaging and spectroscopy were carried out at the HCT and three epochs of imaging at MIRO. We found CN to be the dominant molecular emission on both epochs, 2019 November 30 and December 22, at distances of rH = 2.013 and 2.031 au, respectively. The comet was inferred to be relatively depleted in Carbon bearing molecules on the basis of low C2 and C3 abundances. We find the production rate ratio, Q(C<sub>2</sub>)/Q(CN) = 0.54 &pm; 0.18, pre-perihelion and Q(C<sub>2</sub>)/Q(CN) = 0.34 &pm; 0.12 post-perihelion. This classifies the comet as being moderately depleted in carbon chain molecules. Using the results from spectroscopic observations, we believe the comet to have a chemically heterogeneous surface having variation in abundance of carbon chain molecules. From imaging observations, we infer a dust-to-gas ratio similar to carbon chain depleted comets of the Solar system. We also compute the nucleus size to be in the range 0.18 km &le; r &le; 3.1 km. Our observations show that 2I/Borisov’s behaviour is analogous to that of the Solar system comets.
+  Comet 2I/Borisov is the first true interstellar comet discovered. Here, we present results from observational programs at two Indian observatories, 2 m Himalayan Chandra Telescope at the Indian Astronomical Observatory, Hanle (HCT) and 1.2 m telescope at the Mount Abu Infrared Observatory (MIRO). Two epochs of imaging and spectroscopy were carried out at the HCT and three epochs of imaging at MIRO. We found CN to be the dominant molecular emission on both epochs, 2019 November 30 and December 22, at distances of rH = 2.013 and 2.031 au, respectively. The comet was inferred to be relatively depleted in Carbon bearing molecules on the basis of low C<sub>2</sub> and C<sub>3</sub> abundances. We find the production rate ratio, Q(C<sub>2</sub>)/Q(CN) = 0.54 &plusmn; 0.18, pre-perihelion and Q(C<sub>2</sub>)/Q(CN) = 0.34 &plusmn; 0.12 post-perihelion. This classifies the comet as being moderately depleted in carbon chain molecules. Using the results from spectroscopic observations, we believe the comet to have a chemically heterogeneous surface having variation in abundance of carbon chain molecules. From imaging observations, we infer a dust-to-gas ratio similar to carbon chain depleted comets of the Solar system. We also compute the nucleus size to be in the range 0.18 km &le; r &le; 3.1 km. Our observations show that 2I/Borisov’s behaviour is analogous to that of the Solar system comets.
 
 </div>
 
 <div class="publication">
-  <h3>Dark matter and the strong CP problem</h3>
+  <h3>Optical observations and dust modelling of comet 156P/Russell-LINEAR</h3>
 
-  <p class="authors">J. M. Cline</p>
-  <p>Note: arXiv:2006.08594</p>
-  <p>DOI: 2006.08594</p>
+  <p class="authors">K. Aravind, Prithish Halder, Shashikiran Ganesh,Devendra Sahu, Miquel Serra-Ricart, Jose. J. Chambo, Dorje Angchuk, and Thirupathi Sivarani</p>
+  <p>Note: arXiv:<a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
+  <p>DOI: <a href="https://doi.org/10.1016/j.icarus.2022.115042">10.1016/j.icarus.2022.115042</a></p>
 
   <h4>Abstract:</h4>
-  The strong CP problem is a puzzle of the Standard Model of particle physics, which is solved by the Peccei-Quinn mechanism. This mechanism predicts a new particle, the axion, which is a dark matter candidate. The axion is a very weakly interacting particle, and its properties are determined by the scale of the Peccei-Quinn symmetry breaking. This scale is not known, but it is constrained by astrophysical and cosmological observations. The axion is a leading candidate for the dark matter of the universe, and it may be detected in the near future.
+  Comet 156P/Russell-LINEAR is a short period Jupiter family comet with an orbital period of 6.44 years. The results from spectroscopic, photometric, polarimetric observations and dust modelling studies are presented here. From the spectroscopic study, strong emissions from CN, C<sub>2</sub> and C<sub>3</sub> can be observed during both the epochs of our observations. The Q(C<sub>2</sub>)/Q(CN) ratio classifies the comet as a typical comet. The imaging data reveals the presence of jets. The dust emission from the comet is observed to have a non-steady state outflow due to the presence of these strong jets which subside in later epochs, resulting in a steady state outflow. Polarimetric study at two different phase angles reveals the degree of polarization to be comparable to Jupiter family comets at similar phase angles. Localized variations in polarization values are observed in the coma. The dust modelling studies suggest the presence of high amount of silicate/low absorbing material and indicate the coma to be dominated by higher amount of large size grains with low porosity having power law size distribution index = 2.4. The observed activity and dust properties points to a similarity to another Jupiter family comet, 67P/Churyumov–Gerasimenko.
+</div>
+
+<div class="publication">
+  <h3>Unique regolith characteristics of the lunar swirl Reiner Gamma as revealed by imaging polarimetry at large phase angles</h3>
+
+  <p class="authors">M. Bhatt, C. Wöhler, J. Rogall, K. Aravind, S. Ganesh and A. Bhardwaj</p>
+  <p>Note: arXiv: NA </p>
+  <p>DOI: <a href="https://doi.org/10.1016/j.icarus.2022.115042">10.1016/j.icarus.2022.115042</a></p>
+
+  <h4>Abstract:</h4>
+  Context. Lunar swirls are high-albedo irregular markings that are generally associated with prominent magnetic anomalies. The formation of swirls is still unknown. Near-infrared spacecraft-based imaging suggests reduced space weathering at the locations of swirls. However, the reduced space weathering alone cannot explain the observed spectral properties.
+Aims. We provide detailed physical characteristics of the regolith at the Reiner Gamma swirl. For the first time, systematic telescopic observations in a range of phase angles are used to derive the surface roughness, opposition effect strength, and grain size distribution at a spatial resolution of 1 km.
+Methods. Imaging polarimetric observations of Reiner Gamma were obtained at the Mount Abu IR Observatory between January and March, 2021. These observations were collected with the two narrow-band continuum filters, GC (green) and RC (red), in a range of phase angles. The georeferenced polarimetric images were used to derive the single-scattering albedo, photometric roughness, and amplitude of the opposition effect by adopting the Hapke reflectance model. We further computed median regolith grain size maps of Reiner Gamma using the derived photometric roughness, albedo, and degree of polarization.
+Results. A comparison of the polarization properties of Reiner Gamma swirl with the craters Kepler and Aristarchus suggests grain size variations within the swirl structure. The Hapke modeling of the Reiner Gamma swirl suggests significant changes in the opposition effect strength at the central oval, but only marginal differences in surface roughness from its surroundings. Within the swirl, the median grain size varies significantly in comparison to the background mare grain size of around 45 µm.
+Conclusions. Our results confirm the occurrence of surface alteration processes that might have disrupted the regolith microstructure in the Reiner Gamma swirl. These findings are consistent with an external mechanism of swirl formation, by considering interaction between the regolith and cometary gas. Subsequent to its formation, the swirl structure was preserved due to shielding by crustal magnetic field.
 </div>
 
 </div>
