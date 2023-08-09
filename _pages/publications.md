@@ -55,17 +55,17 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 <div class="jumbotron">
-### Preprints
+### Refereed journal articles
 
 <div class="publication">
   <h3>Feynman lectures on the strong interactions</h3>
 
-  <p class="authors">R. P. Feynman and J. M. Cline</p>
-  <p>Note: arXiv:2006.08594</p>
-  <p>DOI: <a href="https://doi.org/10.1093/mnras/stab084">10.1093/mnras/stab084/clickhere</a></p>
+  <p class="authors">K. Aravind, Shashikiran Ganesh, Kumar Venkataramani, Devendra Sahu, Dorje Angchuk, Thirupathi Sivarani and Athira Unni </p>
+  <p>Note: arXiv:<a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
+  <p>DOI: <a href="https://doi.org/10.1093/mnras/stab084">10.1093/mnras/stab084/</a></p>
 
   <h4>Abstract:</h4>
-  These twenty-two lectures, with exercises, comprise the extent of what was meant to be a full-year graduate-level course on the strong interactions and QCD, given at Caltech in 1987-88. The course was cut short by the illness that led to Feynman's death. Several of the lectures were finalized in collaboration with Feynman for an anticipated monograph based on the course. The others, while retaining Feynman's idiosyncrasies, are revised similarly to those he was able to check. His distinctive approach and manner of presentation are manifest throughout. Near the end he suggests a novel, nonperturbative formulation of quantum field theory in D dimensions. Supplementary material is provided in appendices and ancillary files, including verbatim transcriptions of three lectures and the corresponding audiotaped recordings.
+  Comet 2I/Borisov is the first true interstellar comet discovered. Here, we present results from observational programs at two Indian observatories, 2 m Himalayan Chandra Telescope at the Indian Astronomical Observatory, Hanle (HCT) and 1.2 m telescope at the Mount Abu Infrared Observatory (MIRO). Two epochs of imaging and spectroscopy were carried out at the HCT and three epochs of imaging at MIRO. We found CN to be the dominant molecular emission on both epochs, 2019 November 30 and December 22, at distances of rH = 2.013 and 2.031 au, respectively. The comet was inferred to be relatively depleted in Carbon bearing molecules on the basis of low C2 and C3 abundances. We find the production rate ratio, Q(C<sub>2</sub>)/Q(CN) = 0.54 &pm; 0.18, pre-perihelion and Q(C<sub>2</sub>)/Q(CN) = 0.34 &pm; 0.12 post-perihelion. This classifies the comet as being moderately depleted in carbon chain molecules. Using the results from spectroscopic observations, we believe the comet to have a chemically heterogeneous surface having variation in abundance of carbon chain molecules. From imaging observations, we infer a dust-to-gas ratio similar to carbon chain depleted comets of the Solar system. We also compute the nucleus size to be in the range 0.18 km &le; r &le; 3.1 km. Our observations show that 2I/Borisov’s behaviour is analogous to that of the Solar system comets.
 
 </div>
 
@@ -83,9 +83,9 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </div>
 
 <div class="jumbotron">
-### Refereed journal articles
+### Refereed conference proceedings
 </div>
 
 <div class="jumbotron">
-### Refereed conference proceedings
+### Under Preperation
 </div>
