@@ -105,25 +105,21 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
   <p>DOI: <a href="https://doi.org/10.25518/0037-9565.8669">10.25518/0037-9565.8669</a></p>
   <p>Journal: Bulletin de la Societe Royale des Sciences de Liege, 88, 65. </p>
   <p>Year: 2019 </p>
-  </div>
+  
 
-  <div class="publication">
+  
   <h3>EMPOL: an EMCCD based optical imaging polarimeter.</h3>
   <p class="authors">Ganesh, S., Rai, A., Aravind, K., et al.</p>
   <p>DOI: <a href="https://doi.org/10.1117/12.2560949">10.1117/12.2560949</a></p>
   <p>Journal: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 114479E </p>
   <p>Year: 2020 </p>
-  </div>
 
-  <div class="publication">
   <h3>Regolith Characteristics of the Reiner Gamma Swirl as Revealed by Polarimetric Observations.</h3>
   <p class="authors">Bhatt M., W”ohler C., Aravind K., Ganesh S., Bharadwaj A.</p>
   <p>DOI: <a href="https://www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf">www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf</a></p>
   <p>Journal: 52nd Lunar and Planetary Science Conference</p>
   <p>Year: 2021 </p>
-  </div>
 
-  <div class="publication">
   <h3>Optical spectroscopy of comets.</h3>
   <p class="authors">K. Aravind, Shashikiran Ganesh.</p>
   <p>DOI: Under review</p>
