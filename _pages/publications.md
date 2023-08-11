@@ -131,14 +131,3 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
   </div>
   
 </div>
-
-<div class="jumbotron">
-### Under Preperation
-  <div class="publication">
-  <h3>1) Long term spectroscopic monitoring of comet 46P/Wirtanen.</h3>
-  <p class="authors">K. Aravind, Kumar Venkataramani, Shashikiran Ganesh.</p>
-  <p>JOURNAL: Journal of Astronomy & Astrophysics. </p>
-  <p>YEAR: 2023 </p>
-  
-  </div>
-</div>
