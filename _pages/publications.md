@@ -131,3 +131,15 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
   </div>
   
 </div>
+
+<div class="jumbotron">
+### Atronomers Telegram
+  <div class="publication">
+  <h3>1) CN, C2, C3 production rates of Comet C/2020 F3 (NEOWISE) as observed from Himalayan Chandra Telescope, Hanle.</h3>
+  <p class="authors">Aravind Krishnakumar, Dorje Angchuk, Kumar Venkataramani, Shashikiran Ganesh, D K Sahu, T Sivarani, Athira Unni</p>
+  <p>LINK: <a href="https://www.astronomerstelegram.org/?read=13897">ATel#13897</a></p>
+  <p>YEAR: 2020 </p>
+
+  </div>
+  
+</div>
