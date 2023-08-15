@@ -51,6 +51,17 @@ To extend expertise into different wavelength regimes, the TANSPEC instrument mo
 
 Comets, the most primordial remnants of our Solar system, can provide us with immense details regarding the conditions that prevailed during the initial stages. Indian telescopes were utilised for performing low-resolution spectroscopy of 22 comets (including comets from different reservoirs and the interstellar comet 2I/Borisov). High-resolution spectroscopic, imaging, and polarimetric observations were also conducted on a few comets to study these bodies containing pristine volatile materials. The results extracted from these observations were used to learn more about the molecules present, their production rate, column density, dust-to-gas ratio, dust grain parameters, Ortho-to-Para ratio of NH<sub>2</sub>, Green-to-Red doublet ratio of forbidden Oxygen line etc. Further information like the relative molecular abundance or line ratios and their behaviour with heliocentric distances were extracted to realise the individual comet's composition and to get a collective understanding of the variations.
 </div>
+
+<div class="container">
+<div class="row">
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/QCNvsC2_1vsC3_cochran.eps" width="60%"/><br/>
+Comparison of the trends within different molecular emissions with the data set available in <i>Cochran et al. (2012)</i>
+</center>
+</div>
+</div>
+<br/>
+
 </div>
 
 ## Previous Research
