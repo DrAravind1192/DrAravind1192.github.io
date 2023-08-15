@@ -55,7 +55,7 @@ Comets, the most primordial remnants of our Solar system, can provide us with im
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/QCNvsC2_1vsC3_cochran.eps" width="60%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/QCNvsC2_1vsC3_cochran.png" width="60%"/><br/>
 Comparison of the trends within different molecular emissions with the data set available in <i>Cochran et al. (2012)</i>
 </center>
 </div>
