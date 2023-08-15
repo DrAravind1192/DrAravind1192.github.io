@@ -69,15 +69,15 @@ Comparison of the trends within different molecular emissions with the data set 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>M.Sc. Course</h4>
-Project titled “Wet Chemical Synthesis and Characterization of CdS Nanoparticles", under the guidance of Dr N. S. Nirmala Jothi, Assistant Professor, Loyola College.
+Project titled “Wet Chemical Synthesis and Characterization of CdS Nanoparticles'', under the guidance of Dr N. S. Nirmala Jothi, Assistant Professor, Loyola College.
 
 <h4>PhD Course work</h4>
-Project titled  "Stability analysis of optical spectrograph used in the 1.2m Telescope at Mt.Abu", under the guidance of Dr Shashikiran Ganesh, Physical Research Laboratory, Ahmedabad. This project involved the extensive use of Image Reduction and Analysis Facility (IRAF) to reduce and analyse spectroscopic data to get a rough picture of the telescope's and detector's stability during observations.
+Project titled  ``Stability analysis of optical spectrograph used in the 1.2m Telescope at Mt.Abu'', under the guidance of Dr Shashikiran Ganesh, Physical Research Laboratory, Ahmedabad. This project involved the extensive use of Image Reduction and Analysis Facility (IRAF) to reduce and analyse spectroscopic data to get a rough picture of the telescope's and detector's stability during observations.
 
-Project titled ``Extraction and Flux calibration of Hanle Faint Object Spectrograph Camera (HFOSC) data", using IRAF, under the guidance of Dr Shashikiran Ganesh, Physical Research Laboratory, Ahmedabad.
+Project titled ``Extraction and Flux calibration of Hanle Faint Object Spectrograph Camera (HFOSC) data'', using IRAF, under the guidance of Dr Shashikiran Ganesh, Physical Research Laboratory, Ahmedabad.
 
-Project titled ``Measuring Star Brightness : Aperture Photometry", using self-developed Python code under the guidance of Dr Vishal Joshi, Physical Research Laboratory, Ahmedabad.
+Project titled ``Measuring Star Brightness : Aperture Photometry'', using self-developed Python code under the guidance of Dr Vishal Joshi, Physical Research Laboratory, Ahmedabad.
 
-Project titled "Evaluating the thickness of astrochemical ice analogs" under the guidance of Dr Bhalamurugan Sivaraman, Physical Research Laboratory, Ahmedabad.
+Project titled ``Evaluating the thickness of astrochemical ice analogs'' under the guidance of Dr Bhalamurugan Sivaraman, Physical Research Laboratory, Ahmedabad.
 </div>
 </div>
