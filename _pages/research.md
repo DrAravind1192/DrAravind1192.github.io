@@ -28,6 +28,9 @@ iframe {
   display: inline;
   vertical-align: middle;
 }
+  body {
+  background-image: url("https://en.wikipedia.org/wiki/Comet#/media/File:Comet_Hale-Bopp_1995O1.jpg");
+  }
 </style>
 
 ## Post Doctoral Research
