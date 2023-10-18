@@ -37,8 +37,10 @@ iframe {
 <h4>Exploring the spatial information of cometary emissions and long term monitoring of different cometary bodies</h4>
 
 Further comets are being followed in optical imaging and spectroscopy (low and high resolution). Comets which were observed in long slit spectroscopy during the doctoral research (for general compositional characteristics) are being analysed in depth to explore the spatial variation in different emissions (including presence of hidden ionic emissions due to coincidental orientation of ion tail with the slit direction).
+
 Active collaboration with the TRAPPIST group (Dr Emmanuel Jehin & Co) for long term monitoring of cometary bodies with the help of photometric and spectroscopic observations.
 The possibility of using the existing observed data set to compute a new set of parent and daughter scale lengths for different molecules is also being explored.
+
 To extend expertise into different wavelength regimes, the TANSPEC instrument mounted on the 3.6 m DOT telescope in India was used to study comets in the IR regime. Even though the unavailability of windows above 2.5 $\mu m$ restricts us from directly observing the emissions from molecular gases, these observations are being used to analyse the continuum emission to probe the dust particles in detail.
 </div>
 </div>
@@ -50,8 +52,11 @@ To extend expertise into different wavelength regimes, the TANSPEC instrument mo
 <h4>Observational analysis of Cometary bodies in the Solar System</h4>
 
 Comets, as the most ancient relics of our solar system, offer a wealth of information about the conditions prevailing during its early stages. Indian telescopes were employed to conduct low-resolution spectroscopic analyses on 22 comets, including those from diverse reservoirs and the only interstellar comet 2I/Borisov. Additionally, high-resolution spectroscopic, imaging, and polarimetric observations were carried out on selected comets to investigate these celestial bodies rich in pristine volatile materials.
+
 Notably, the low-resolution spectroscopic analysis of the first interstellar comet confirmed the heterogeneous composition of its nucleus. Simultaneously, photometric, spectroscopic, and polarimetric observations of comet 156P/Russell-LINEAR underscored the significance of employing multiple investigative techniques for comprehensive cometary studies.
+
 Our findings from the observations of these 22 comets include insights into the presence of specific molecules, their production rates, column densities, dust-to-gas ratios, Ortho-to-Para ratio of NH<sub>2</sub>, Green-to-Red doublet ratio of forbidden Oxygen lines, and more. Moreover, we examined the relative molecular abundances, line ratios, and their behavior with respect to heliocentric distances to discern the individual composition of each comet and gain a collective understanding of their variations.
+
 These investigations also explored potential interdependencies among various emission activities, to understand better the photo-chemistry happening within the coma. Finally, we also emphasize the need for an open-access database encompassing all comets observed to date which would serve as a valuable resource for the broader scientific community, helping expand the boundaries of cometary studies.
 </div>
 
