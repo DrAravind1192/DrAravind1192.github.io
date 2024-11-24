@@ -131,11 +131,11 @@ permalink: /about/
 </div>
 {% endif %}
 
-{% if site.data.grants %}
+{% if site.data.grantawards %}
 <div class="col-sm-6">
 ### Grants
 <ul>
-{% for grant in grants %}
+{% for grant in grantawards %}
  <li> {{ grant.name | replace: "-","&#8211;"}} </li>
 {% endfor %}
 </ul>
