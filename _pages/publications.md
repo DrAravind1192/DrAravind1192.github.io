@@ -155,7 +155,7 @@ Umesh Chandra Joshi.</p>
   <hr>  
   
   <h3>2) EMPOL: an EMCCD based optical imaging polarimeter.</h3>
-  <p class="authors">Ganesh, S., Rai, A., Aravind, K., Singh, A., Prajapati, P. V., Mishra, A., ... & Joshi, U. C.</p>
+  <p class="authors">Ganesh, S., Rai, A., K. Aravind, Singh, A., Prajapati, P. V., Mishra, A., ... & Joshi, U. C.</p>
   <p>DOI: <a href="https://doi.org/10.1117/12.2560949">10.1117/12.2560949</a></p>
   <p>Conference: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 114479E </p>
   <p>YEAR: 2020 </p>
@@ -163,7 +163,7 @@ Umesh Chandra Joshi.</p>
   <hr>
 
   <h3>3) Regolith Characteristics of the Reiner Gamma Swirl as Revealed by Polarimetric Observations.</h3>
-  <p class="authors">Bhatt M., W”ohler C., Aravind K., Ganesh S., Bharadwaj A.</p>
+  <p class="authors">Bhatt M., W”ohler C., K. Aravind, Ganesh S., Bharadwaj A.</p>
   <p>DOI: <a href="https://www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf">www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf</a></p>
   <p>Conference: 52nd Lunar and Planetary Science Conference</p>
   <p>YEAR: 2021 </p>
