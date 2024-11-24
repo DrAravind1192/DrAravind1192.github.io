@@ -58,6 +58,18 @@ Venue: 41<sup>st</sup> Meeting of the Astronomical Society of India, IIT Indore,
 
 Venue: 3<sup>rd</sup> BINA conference, Graphic era Hill University, hosted by ARIES, Nainital, 22<sup>nd</sup> - 24<sup>th</sup> March
 2023.
+
+<h4>TOPIC: Comets and planets, Ground-based observations</h4>
+
+Venue: online short course CSSTEAP 2023 held in PRL, Ahmedabad, between 15$<sup>th</sup> - 19<sup>th</sup> May 2023.
+
+<h4>TOPIC: Unlocking the Mysteries of Comets: The Significance of Long-Term Monitoring through Spectroscopy and Photometry in Indian-Belgian Collaboration</h4>
+
+Venue: 1-day BINA/BIPASS meeting held in Brussels on 10<sup>th</sup> October 2023.
+
+<h4>TOPIC: Unveiling Cometary Composition: Importance of Spectroscopic Follow-up in the Era of Large Discovery Surveys</h4>
+
+Venue: 32<sup>nd</sup> IAU General Assembly held at Cape Town, South Africa, between 6<sup>th</sup> - 15<sup>th</sup> August 2024.
  
 </div>
 </div>
