@@ -129,6 +129,7 @@ permalink: /about/
 {% endfor %}
 </ul>
 </div>
+{% endif %}
 
 {% if site.data.awards %}
 <div class="col-sm-6">
