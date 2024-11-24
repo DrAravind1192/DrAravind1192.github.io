@@ -60,7 +60,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <div class="publication">
   <h3>Activity of the first interstellar comet 2I/Borisov around perihelion: Results from Indian observatories</h3>
 
-  <p class="authors">K. Aravind, Shashikiran Ganesh, Kumar Venkataramani, Devendra Sahu, Dorje Angchuk, Thirupathi Sivarani and Athira Unni </p>
+  <p class="authors">**K. Aravind**, Shashikiran Ganesh, Kumar Venkataramani, Devendra Sahu, Dorje Angchuk, Thirupathi Sivarani and Athira Unni </p>
   <p>arXiv: <a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
   <p>DOI: <a href="https://doi.org/10.1093/mnras/stab084">10.1093/mnras/stab084</a></p>
 
@@ -73,7 +73,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <div class="publication">
   <h3>Optical observations and dust modelling of comet 156P/Russell-LINEAR</h3>
 
-  <p class="authors">K. Aravind, Prithish Halder, Shashikiran Ganesh,Devendra Sahu, Miquel Serra-Ricart, Jose. J. Chambo, Dorje Angchuk, and Thirupathi Sivarani</p>
+  <p class="authors">**K. Aravind**, Prithish Halder, Shashikiran Ganesh,Devendra Sahu, Miquel Serra-Ricart, Jose. J. Chambo, Dorje Angchuk, and Thirupathi Sivarani</p>
   <p>arXiv: <a href="https://arxiv.org/abs/2101.02752">2101.02752</a></p>
   <p>DOI: <a href="https://doi.org/10.1016/j.icarus.2022.115042">10.1016/j.icarus.2022.115042</a></p>
 
@@ -102,7 +102,7 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
 <div class="publication">
   <h3>Long-term spectroscopic monitoring of comet 46P/Wirtanen</h3>
 
-  <p class="authors">K. Aravind, Kumar Venkataramani, Shashikiran Ganesh, Emmanuel Jehin, Youseff Moulane </p>
+  <p class="authors">**K. Aravind**, Kumar Venkataramani, Shashikiran Ganesh, Emmanuel Jehin, Youseff Moulane </p>
   <p>arXiv: <a href="https://arxiv.org/abs/2401.03869">2401.03869</a></p>
   <p>DOI: <a href="https://doi.org/10.1007/s12036-024-09996-6">10.1007/s12036-024-09996-6</a></p>
 
@@ -115,7 +115,7 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
 <div class="publication">
   <h3>Optical spectroscopy of comets using Hanle Echelle Spectrograph (HESP)</h3>
 
-  <p class="authors">K. Aravind, Kumar Venkataramani, Shashikiran Ganesh, Arun Surya, Thirupathi Sivarani, Devendra Sahu, Athira Unni and Anil Bhardwaj.  </p>
+  <p class="authors">**K. Aravind**, Kumar Venkataramani, Shashikiran Ganesh, Arun Surya, Thirupathi Sivarani, Devendra Sahu, Athira Unni and Anil Bhardwaj.  </p>
   <p>arXiv: <a href="https://arxiv.org/abs/2403.01595">2403.01595</a></p>
   <p>DOI: <a href="https://doi.org/10.1093/mnras/stae666">10.1093/mnras/stae666</a></p>
 
@@ -128,7 +128,7 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
 <div class="publication">
   <h3>Multi-purpose InSTRument for Astronomy at Low-resolution: MISTRAL@OHP</h3>
 
-  <p class="authors">Schmitt J., Adami C.,...,K. Aravind, et al.</p>
+  <p class="authors">Schmitt J., Adami C.,...,**K. Aravind**, et al.</p>
   <p>arXiv: <a href="https://arxiv.org/abs/2404.03705">2404.03705</a></p>
   <p>DOI: <a href="https://doi.org/10.1051/0004-6361/202449254">10.1051/0004-6361/202449254</a></p>
 
@@ -145,9 +145,10 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
 ### Refereed conference proceedings
   <div class="publication">
   <h3>1) Solar system studies with the Indo-Belgian telescopes.</h3>
-  <p class="authors">Ganesh, S., Krishnakumar, A., Venkataramani, K., et al.</p>
+  <p class="authors">Ganesh, S., **Krishnakumar, A.**, Venkataramani, K., et al.</p>
   <p>DOI: <a href="https://doi.org/10.25518/0037-9565.8669">10.25518/0037-9565.8669</a></p>
-  <p>JOURNAL: Bulletin de la Societe Royale des Sciences de Liege, 88, 65. </p>
+  <p>Conference: Belgo-Indian Network for Astronomy and Astrophysics (BINA).</p>
+  <p>JOURNAL: Bulletin of Liege Royal Society of Sciences.</p>
   <p>YEAR: 2019 </p>
     
   <hr>  
@@ -155,7 +156,7 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
   <h3>2) EMPOL: an EMCCD based optical imaging polarimeter.</h3>
   <p class="authors">Ganesh, S., Rai, A., Aravind, K., et al.</p>
   <p>DOI: <a href="https://doi.org/10.1117/12.2560949">10.1117/12.2560949</a></p>
-  <p>JOURNAL: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 114479E </p>
+  <p>Conference: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 114479E </p>
   <p>YEAR: 2020 </p>
 
   <hr>
@@ -163,17 +164,61 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
   <h3>3) Regolith Characteristics of the Reiner Gamma Swirl as Revealed by Polarimetric Observations.</h3>
   <p class="authors">Bhatt M., W”ohler C., Aravind K., Ganesh S., Bharadwaj A.</p>
   <p>DOI: <a href="https://www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf">www.hou.usra.edu/meetings/lpsc2021/pdf/2430.pdf</a></p>
-  <p>JOURNAL: 52nd Lunar and Planetary Science Conference</p>
+  <p>Conference: 52nd Lunar and Planetary Science Conference</p>
   <p>YEAR: 2021 </p>
 
   <hr>
 
-  <h3>4) Optical spectroscopy of comets.</h3>
-  <p class="authors">K. Aravind, Shashikiran Ganesh.</p>
-  <p>DOI: Under review</p>
+  <h3>4) Regolith properties of the lunar swirl Reiner Gamma inferred from phase ratio and polarimetric imaging.</h3>
+  <p class="authors">W”ohler C., Bhatt M., Rogall J., **K. Aravind**, Ganesh S., Bharadwaj A.</p>
+  <p>DOI: <a href="https://ui.adsabs.harvard.edu/abs/2022cosp...44..271W/abstract">NASA ADS</a></p>
+  <p>Conference: 44th COSPAR Scientific Assembly</p>
+  <p>YEAR: 2022 </p>
+
+  <hr>
+
+  <h3>5) Revealing the ionic emissions in the comet C/2020 F3 (NEOWISE).</h3>
+  <p class="authors">**K. Aravind**, Venkataramani K., Ganesh S., Sahu D., Sivarani T.</p>
+  <p>Link: <a href="https://www.hou.usra.edu/meetings/acm2023/pdf/2501.pdf">https://www.hou.usra.edu/meetings/acm2023/pdf/2501.pdf</a></p>
+  <p>Conference: Asteroids, Comets, Meteors Conference</p>
+  <p>YEAR: 2023 </p>
+  </div>
+
+<hr>
+
+  <h3>6) The Carbon-Chain depletion of recently observed Jupiter family comets from photometry and spectroscopy.</h3>
+  <p class="authors">M. Vander Donckt, **K. Aravind**, E. Jehin, S. Ganesh, S. Hmiddouch1, Y. Moulane, Z. Benkhaldoun, A. Jabiri, D. Sahu, T. Sivarani</p>
+  <p>Link: <a href="https://www.hou.usra.edu/meetings/acm2023/pdf/2461.pdf">https://www.hou.usra.edu/meetings/acm2023/pdf/2461.pdf</a></p>
+  <p>Conference: Asteroids, Comets, Meteors Conference</p>
+  <p>YEAR: 2023 </p>
+  </div>
+
+  <hr>
+
+  <h3>7) Optical spectroscopy of comets.</h3>
+  <p class="authors">**Krishnakumar Aravind**, Ganesh Shashikiran</p>
+  <p>DOI: <a href="https://doi.org/10.25518/0037-9565.11613">10.25518/0037-9565.11613</a></p>
+  <p>Conference: Belgo-Indian Network for Astronomy and Astrophysics (BINA).</p>
   <p>JOURNAL: Bulletin of Liege Royal Society of Sciences.</p>
   <p>YEAR: 2023 </p>
   </div>
+
+  <hr>
+
+  <h3>8) Spectropolarimetric Properties of the Lunar Swirl Reiner Gamma and Western Oceanus Procellarum.</h3>
+  <p class="authors">W”ohler C., Bhatt M., Arnaut M., Ganesh S., **K. Aravind**, Bharadwaj A.</p>
+  <p>DOI: <a href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/1609.pdf">https://www.hou.usra.edu/meetings/lpsc2023/pdf/1609.pdf</a></p>
+  <p>Conference: 54th Lunar and Planetary Science Conference</p>
+  <p>YEAR: 2023 </p>
+
+   <hr>
+
+  <h3>9) MISTRAL observations of the C/2022 E3 (ZTF) comet by the Aix-Marseille M2 students: First science results.</h3>
+  <p class="authors">Adami, C.; Jehin, E.; **K. Aravind**; Ahmad, Y; Roy A.; Carvajal-Bohorquez C.; Garnichey M.; Hasan, M; Hassaine, D; Jimenez de la Vega, N. E.; Kaddour, A.; Kueviakoe, V.; Mendil, R.; Michel, F.; Anderson, S.; Delsanti, A.; LeCoroller, H.; Russeil, D; Lazzarini, S.; Litman, A.</p>
+  <p>DOI: <a href="http://sf2a.eu/proceedings/2023/2023sf2a.conf.511A.pdf">http://sf2a.eu/proceedings/2023/2023sf2a.conf.511A.pdf</a></p>
+  <p>JOURNAL: SF2A-2023, Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics.</p>
+  <p>Conference: Annual meeting of the French Society of Astronomy and Astrophysics</p>
+  <p>YEAR: 2023 </p>
   
 </div>
 
@@ -184,6 +229,14 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
   <p class="authors">Aravind Krishnakumar, Dorje Angchuk, Kumar Venkataramani, Shashikiran Ganesh, D K Sahu, T Sivarani, Athira Unni</p>
   <p>LINK: <a href="https://www.astronomerstelegram.org/?read=13897">ATel#13897</a></p>
   <p>YEAR: 2020 </p>
+
+   <hr>
+
+   <div class="publication">
+  <h3>1) Molecular gas production rates of Comet C/2023 A3 (Tsuchinshan - ATLAS)</h3>
+  <p class="authors">Goldy Ahuja, **K. Aravind**, D K Sahu, E. Jehin, M. Vander Donckt, S. Hmmidouch, Shashikiran Ganesh, T Sivarani</p>
+  <p>LINK: <a href="https://astronomerstelegram.org/?read=16637">ATel#16637</a></p>
+  <p>YEAR: 2024 </p>
 
   </div>
   
