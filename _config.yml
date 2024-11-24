@@ -1,7 +1,7 @@
 # Site settings
-title: Aravind K
+title: Aravind Krishnakumar
 email: aravind139@gmail.com
-description: Academic webpage of Dr. Aravind K
+description: Academic webpage of Dr. Aravind Krishnakumar
 baseurl: ""
 url: ""
 
@@ -12,14 +12,14 @@ url: ""
 
 # Footer info
 affiliation: >
-    Aravind K<br/>
+    Aravind Krishnakumar<br/>
     Post Doctoral Fellow<br/>
-    Physical Research Laboratory
+    STAR Research Unit, University of Liege, Belgium
 
 location: >
-  Physical Research Laboratory<br/>
-  Ahmedabad 380009<br/>
-  India
+  University of Liege<br/>
+  Liege 40000<br/>
+  Belgium
 contact: >
     <a href="mailto:aravind139@gmail.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Aravind via email</a> <br/>
     <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
