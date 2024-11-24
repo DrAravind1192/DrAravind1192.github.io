@@ -77,11 +77,50 @@ permalink: /about/
 {% endif %}
 </ul>
 </div>
+
+{% for member in site.data.expi %}
+<div class="col-sm-6"> 
+### Experience
+<ul> <!-- style="overflow: hidden"> -->
+{% if member.number_expi == 1 %}
+<li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_expo == 2 %}
+<li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_expo == 3 %}
+<li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience3 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_expo == 4 %}
+<li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience3 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience4 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_expo == 5 %}
+<li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience3 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience4 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience5 | replace: "-","&#8211;"}} </li>
+{% endif %}
+{% if member.number_expo == 6 %}
+<li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience3 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience4 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience5 | replace: "-","&#8211;"}} </li>
+<li> {{ member.experience6 | replace: "-","&#8211;"}} </li>
+{% endif %}
+  
 {% endfor %}
 
 {% if site.data.awards %}
 <div class="col-sm-6">
-### Awards
+### Awards and Grants
 <ul>
 {% for award in site.data.awards %}
  <li> {{ award.name | replace: "-","&#8211;"}} </li>
