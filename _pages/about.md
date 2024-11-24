@@ -78,7 +78,7 @@ permalink: /about/
 </ul>
 </div>
 
-{% for member in site.data.expi %}
+{% for member in site.data.pi %}
 <div class="col-sm-6"> 
 ### Experience
 <ul> <!-- style="overflow: hidden"> -->
@@ -115,7 +115,8 @@ permalink: /about/
 <li> {{ member.experience5 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience6 | replace: "-","&#8211;"}} </li>
 {% endif %}
-  
+</ul>
+</div>
 {% endfor %}
 
 {% if site.data.awards %}
