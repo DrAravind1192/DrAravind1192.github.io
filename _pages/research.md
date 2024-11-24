@@ -33,21 +33,6 @@ iframe {
   }
 </style>
 
-## Post Doctoral Research
-
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Exploring the spatial information of cometary emissions and long term monitoring of different cometary bodies</h4>
-
-Further comets are being followed in optical imaging and spectroscopy (low and high resolution). Comets which were observed in long slit spectroscopy during the doctoral research (for general compositional characteristics) are being analysed in depth to explore the spatial variation in different emissions (including presence of hidden ionic emissions due to coincidental orientation of ion tail with the slit direction).
-
-Active collaboration with the TRAPPIST group (Dr Emmanuel Jehin & Co) for long term monitoring of cometary bodies with the help of photometric and spectroscopic observations.
-The possibility of using the existing observed data set to compute a new set of parent and daughter scale lengths for different molecules is also being explored.
-
-To extend expertise into different wavelength regimes, the TANSPEC instrument mounted on the 3.6 m DOT telescope in India was used to study comets in the IR regime. Even though the unavailability of windows above 2.5 $\mu m$ restricts us from directly observing the emissions from molecular gases, these observations are being used to analyse the continuum emission to probe the dust particles in detail.
-</div>
-</div>
-
 ## Doctoral Research
 
 <div class="jumbotron">
@@ -73,6 +58,21 @@ Comparison of the trends within different molecular emissions with the data set 
 </div>
 <br/>
 
+</div>
+
+## Post Doctoral Research
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Exploring the spatial information of cometary emissions and long term monitoring of different cometary bodies</h4>
+
+Further comets are being followed in optical imaging and spectroscopy (low and high resolution). Comets which were observed in long slit spectroscopy during the doctoral research (for general compositional characteristics) are being analysed in depth to explore the spatial variation in different emissions (including presence of hidden ionic emissions due to coincidental orientation of ion tail with the slit direction).
+
+Active collaboration with the TRAPPIST group (Prof Emmanuel Jehin & Co) for long term monitoring of cometary bodies with the help of photometric and spectroscopic observations.
+The possibility of using the existing observed data set to compute a new set of parent and daughter scale lengths for different molecules is also being explored.
+
+To extend expertise into different wavelength regimes, the TANSPEC instrument mounted on the 3.6 m DOT telescope in India was used to study comets in the IR regime. Even though the unavailability of windows above 2.5 <span>&#181;</span>m restricts us from directly observing the emissions from molecular gases, these observations are being used to analyse the continuum emission to probe the dust particles in detail.
+</div>
 </div>
 
 ## Previous Research
