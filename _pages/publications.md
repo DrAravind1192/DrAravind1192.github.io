@@ -183,7 +183,6 @@ Umesh Chandra Joshi.</p>
   <p>Link: <a href="https://www.hou.usra.edu/meetings/acm2023/pdf/2501.pdf">https://www.hou.usra.edu/meetings/acm2023/pdf/2501.pdf</a></p>
   <p>Conference: Asteroids, Comets, Meteors Conference</p>
   <p>YEAR: 2023 </p>
-  </div>
 
 <hr>
 
@@ -192,7 +191,6 @@ Umesh Chandra Joshi.</p>
   <p>Link: <a href="https://www.hou.usra.edu/meetings/acm2023/pdf/2461.pdf">https://www.hou.usra.edu/meetings/acm2023/pdf/2461.pdf</a></p>
   <p>Conference: Asteroids, Comets, Meteors Conference</p>
   <p>YEAR: 2023 </p>
-  </div>
 
   <hr>
 
@@ -202,7 +200,6 @@ Umesh Chandra Joshi.</p>
   <p>Conference: Belgo-Indian Network for Astronomy and Astrophysics (BINA).</p>
   <p>JOURNAL: Bulletin of Liege Royal Society of Sciences.</p>
   <p>YEAR: 2023 </p>
-  </div>
 
   <hr>
 
@@ -220,7 +217,7 @@ Umesh Chandra Joshi.</p>
   <p>JOURNAL: SF2A-2023, Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics.</p>
   <p>Conference: Annual meeting of the French Society of Astronomy and Astrophysics</p>
   <p>YEAR: 2023 </p>
-  
+  </div>
 </div>
 
 <div class="jumbotron">
@@ -233,7 +230,6 @@ Umesh Chandra Joshi.</p>
 
    <hr>
 
-   <div class="publication">
   <h3>2) Molecular gas production rates of Comet C/2023 A3 (Tsuchinshan - ATLAS)</h3>
   <p class="authors">Goldy Ahuja, **K. Aravind**, D K Sahu, E. Jehin, M. Vander Donckt, S. Hmmidouch, Shashikiran Ganesh, T Sivarani</p>
   <p>LINK: <a href="https://astronomerstelegram.org/?read=16637">ATel#16637</a></p>
