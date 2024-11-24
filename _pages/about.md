@@ -77,6 +77,7 @@ permalink: /about/
 {% endif %}
 </ul>
 </div>
+{% endfor %}
 
 {% for member in site.data.pi %}
 <div class="col-sm-6"> 
@@ -85,29 +86,29 @@ permalink: /about/
 {% if member.number_expi == 1 %}
 <li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
 {% endif %}
-{% if member.number_expo == 2 %}
+{% if member.number_expi == 2 %}
 <li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
 {% endif %}
-{% if member.number_expo == 3 %}
+{% if member.number_expi == 3 %}
 <li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience3 | replace: "-","&#8211;"}} </li>
 {% endif %}
-{% if member.number_expo == 4 %}
+{% if member.number_expi == 4 %}
 <li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience3 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience4 | replace: "-","&#8211;"}} </li>
 {% endif %}
-{% if member.number_expo == 5 %}
+{% if member.number_expi == 5 %}
 <li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience3 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience4 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience5 | replace: "-","&#8211;"}} </li>
 {% endif %}
-{% if member.number_expo == 6 %}
+{% if member.number_expi == 6 %}
 <li> {{ member.experience1 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience2 | replace: "-","&#8211;"}} </li>
 <li> {{ member.experience3 | replace: "-","&#8211;"}} </li>
