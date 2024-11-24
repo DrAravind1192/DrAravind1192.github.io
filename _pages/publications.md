@@ -65,8 +65,9 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
   <p>DOI: <a href="https://doi.org/10.1093/mnras/stab084">10.1093/mnras/stab084</a></p>
 
   <h4>Abstract:</h4>
+  <p align="justify">
   Comet 2I/Borisov is the first true interstellar comet discovered. Here, we present results from observational programs at two Indian observatories, 2 m Himalayan Chandra Telescope at the Indian Astronomical Observatory, Hanle (HCT) and 1.2 m telescope at the Mount Abu Infrared Observatory (MIRO). Two epochs of imaging and spectroscopy were carried out at the HCT and three epochs of imaging at MIRO. We found CN to be the dominant molecular emission on both epochs, 2019 November 30 and December 22, at distances of rH = 2.013 and 2.031 au, respectively. The comet was inferred to be relatively depleted in Carbon bearing molecules on the basis of low C<sub>2</sub> and C<sub>3</sub> abundances. We find the production rate ratio, Q(C<sub>2</sub>)/Q(CN) = 0.54 &plusmn; 0.18, pre-perihelion and Q(C<sub>2</sub>)/Q(CN) = 0.34 &plusmn; 0.12 post-perihelion. This classifies the comet as being moderately depleted in carbon chain molecules. Using the results from spectroscopic observations, we believe the comet to have a chemically heterogeneous surface having variation in abundance of carbon chain molecules. From imaging observations, we infer a dust-to-gas ratio similar to carbon chain depleted comets of the Solar system. We also compute the nucleus size to be in the range 0.18 km &le; r &le; 3.1 km. Our observations show that 2I/Borisov’s behaviour is analogous to that of the Solar system comets.
-
+</p>
 </div>
 
 <div class="publication">
@@ -92,6 +93,32 @@ Aims. We provide detailed physical characteristics of the regolith at the Reiner
 Methods. Imaging polarimetric observations of Reiner Gamma were obtained at the Mount Abu IR Observatory between January and March, 2021. These observations were collected with the two narrow-band continuum filters, GC (green) and RC (red), in a range of phase angles. The georeferenced polarimetric images were used to derive the single-scattering albedo, photometric roughness, and amplitude of the opposition effect by adopting the Hapke reflectance model. We further computed median regolith grain size maps of Reiner Gamma using the derived photometric roughness, albedo, and degree of polarization.
 Results. A comparison of the polarization properties of Reiner Gamma swirl with the craters Kepler and Aristarchus suggests grain size variations within the swirl structure. The Hapke modeling of the Reiner Gamma swirl suggests significant changes in the opposition effect strength at the central oval, but only marginal differences in surface roughness from its surroundings. Within the swirl, the median grain size varies significantly in comparison to the background mare grain size of around 45 µm.
 Conclusions. Our results confirm the occurrence of surface alteration processes that might have disrupted the regolith microstructure in the Reiner Gamma swirl. These findings are consistent with an external mechanism of swirl formation, by considering interaction between the regolith and cometary gas. Subsequent to its formation, the swirl structure was preserved due to shielding by crustal magnetic field.
+</div>
+
+<div class="publication">
+  <h3>Long-term spectroscopic monitoring of comet 46P/Wirtanen</h3>
+
+  <p class="authors">K. Aravind, Kumar Venkataramani, Shashikiran Ganesh, Emmanuel Jehin, Youseff Moulane </p>
+  <p>arXiv: <a href="https://arxiv.org/abs/2401.03869">2401.03869</a></p>
+  <p>DOI: <a href="https://doi.org/10.1007/s12036-024-09996-6">10.1007/s12036-024-09996-6</a></p>
+
+  <h4>Abstract:</h4>
+  <p align="justify">
+  Jupiter family comets, having an orbital period <20 years, allow us to observe their activity and analyze the homogeneity in their coma composition over multiple apparitions. Comet 46P/Wirtanen, with its exceptionally close approach to Earth during its 2018 apparition, offered the possibility for long-term spectroscopic observations. We used a 1.2 m telescope equipped with a low-resolution spectrograph to monitor the comet’s activity and compute the relative abundances in the coma as a function of heliocentric distance. We report the production rates of four molecules CN, C<sub>2</sub>, C<sub>3</sub> and NH<sub>2</sub> and Af(rho) parameter, a proxy to the dust production, before and after perihelion. We found that 46P has a typical coma composition with almost constant abundance ratios with respect to CN across the epochs of observation. Comparing the coma composition of comet 46P during the current and previous apparitions, we conclude the comet has a highly homogeneous chemical composition in the nucleus with an enhancement in ammonia abundance compared to the average abundance in comets.
+</p>
+</div>
+
+<div class="publication">
+  <h3>Optical spectroscopy of comets using Hanle Echelle Spectrograph (HESP)</h3>
+
+  <p class="authors">K. Aravind, Kumar Venkataramani, Shashikiran Ganesh, Arun Surya, Thirupathi Sivarani, Devendra Sahu, Athira Unni and Anil Bhardwaj.  </p>
+  <p>arXiv: <a href="https://arxiv.org/abs/2401.03869">2401.03869</a></p>
+  <p>DOI: <a href="https://doi.org/10.1093/mnras/stae666">10.1093/mnras/stae666</a></p>
+
+  <h4>Abstract:</h4>
+  <p align="justify">
+  Observing the vibrational/rotational lines in a comet’s optical spectrum requires high-resolution spectroscopy, as they are otherwise seen as a blended feature. To achieve this, we have obtained medium and high-resolution (R (λ/Δλ) = 30 000 and 60 000) spectra of several comets, including C/2015 V2 (Johnson), 46P/Wirtanen, 41P/Tuttle–Giacobini–Kresák, and 38P/Stephan–Oterma, using the Hanle Echelle Spectrograph (HESP) mounted on the 2-m Himalayan Chandra Telescope (HCT) in India. The spectra effectively cover the wavelength range 3700–10 000 Å, allowing us to probe the various vibrational bands and band sequences to identify the rotational lines in the cometary molecular emission. We were also able to separate the cometary Oxygen lines from the telluric lines and analyse the green-to-red (G/R) forbidden oxygen [O I] ratios in a few comets. For comets C/2015 V2, 46P, and 41P, the computed G/R ratios, 0.04 ± 0.01, 0.04 ± 0.01, and 0.08 ± 0.02, respectively, point to H2O being a major source of Oxygen emissions. Notably, in the second fibre pointing at a location 1000 km away from the photocentre of comet 46P, the G/R ratio reduced by more than half the value observed in the first fibre, indicating the effects of quenching within the inner coma. We also measured the NH2 ortho-to-para ratio of comet 46P to be about 3.41 ± 0.05 and derived an ammonia ratio of 1.21 ± 0.03 corresponding to a spin temperature of ∼26 K. With these, we present the results of the study of four comets from different cometary reservoirs using medium and high-resolution optical spectroscopy, emphasizing the capabilities of the instrument for future cometary studies
+</p>
 </div>
 
 </div>
