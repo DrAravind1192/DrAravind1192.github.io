@@ -136,7 +136,7 @@ permalink: /about/
 ### Grants
 <ul>
 {% for grant in grantawards %}
- <li> {{ grant.name | replace: "-","&#8211;"}} </li>
+<li> {{ grant.name }} </li>
 {% endfor %}
 </ul>
 </div>
