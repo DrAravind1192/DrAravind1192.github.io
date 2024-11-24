@@ -91,12 +91,17 @@ To extend expertise into different wavelength regimes, the TANSPEC instrument mo
 Project titled “Wet Chemical Synthesis and Characterization of CdS Nanoparticles'', under the guidance of Dr N. S. Nirmala Jothi, Assistant Professor, Loyola College.
 
 <h4>PhD Course work</h4>
+<p align="justify">
 Project titled  ``Stability analysis of optical spectrograph used in the 1.2m Telescope at Mt.Abu'', under the guidance of Dr Shashikiran Ganesh, Physical Research Laboratory, Ahmedabad. This project involved the extensive use of Image Reduction and Analysis Facility (IRAF) to reduce and analyse spectroscopic data to get a rough picture of the telescope's and detector's stability during observations.
-
+</p>
+<p align="justify">
 Project titled ``Extraction and Flux calibration of Hanle Faint Object Spectrograph Camera (HFOSC) data'', using IRAF, under the guidance of Dr Shashikiran Ganesh, Physical Research Laboratory, Ahmedabad.
-
+</p>
+<p align="justify">
 Project titled ``Measuring Star Brightness : Aperture Photometry'', using self-developed Python code under the guidance of Dr Vishal Joshi, Physical Research Laboratory, Ahmedabad.
-
+</p>
+<p align="justify">
 Project titled ``Evaluating the thickness of astrochemical ice analogs'' under the guidance of Dr Bhalamurugan Sivaraman, Physical Research Laboratory, Ahmedabad.
+</p>
 </div>
 </div>
