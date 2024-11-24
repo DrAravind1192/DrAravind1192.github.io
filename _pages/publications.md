@@ -145,7 +145,8 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
 ### Refereed conference proceedings
   <div class="publication">
   <h3>1) Solar system studies with the Indo-Belgian telescopes.</h3>
-  <p class="authors">Ganesh, S., **Krishnakumar, A.**, Venkataramani, K., et al.</p>
+  <p class="authors">Ganesh, S., **Krishnakumar, A.**, Venkataramani, K., Archita Rai, Kiran Singh Baliyan, and
+Umesh Chandra Joshi.</p>
   <p>DOI: <a href="https://doi.org/10.25518/0037-9565.8669">10.25518/0037-9565.8669</a></p>
   <p>Conference: Belgo-Indian Network for Astronomy and Astrophysics (BINA).</p>
   <p>JOURNAL: Bulletin of Liege Royal Society of Sciences.</p>
@@ -154,7 +155,7 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
   <hr>  
   
   <h3>2) EMPOL: an EMCCD based optical imaging polarimeter.</h3>
-  <p class="authors">Ganesh, S., Rai, A., Aravind, K., et al.</p>
+  <p class="authors">Ganesh, S., Rai, A., Aravind, K., Singh, A., Prajapati, P. V., Mishra, A., ... & Joshi, U. C.</p>
   <p>DOI: <a href="https://doi.org/10.1117/12.2560949">10.1117/12.2560949</a></p>
   <p>Conference: Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, 114479E </p>
   <p>YEAR: 2020 </p>
@@ -233,7 +234,7 @@ Conclusions. Our results confirm the occurrence of surface alteration processes 
    <hr>
 
    <div class="publication">
-  <h3>1) Molecular gas production rates of Comet C/2023 A3 (Tsuchinshan - ATLAS)</h3>
+  <h3>2) Molecular gas production rates of Comet C/2023 A3 (Tsuchinshan - ATLAS)</h3>
   <p class="authors">Goldy Ahuja, **K. Aravind**, D K Sahu, E. Jehin, M. Vander Donckt, S. Hmmidouch, Shashikiran Ganesh, T Sivarani</p>
   <p>LINK: <a href="https://astronomerstelegram.org/?read=16637">ATel#16637</a></p>
   <p>YEAR: 2024 </p>
