@@ -79,6 +79,14 @@ permalink: /about/
 </div>
 {% endfor %}
 
+{% if site.data.awards %}
+<div class="col-sm-6">
+### Awards and Grants
+<ul>
+{% for award in site.data.awards %}
+ <li> {{ award.name | replace: "-","&#8211;"}} </li>
+{% endfor %}
+
 {% for member in site.data.pi %}
 <div class="col-sm-6"> 
 ### Experience
@@ -118,14 +126,6 @@ permalink: /about/
 {% endif %}
 </ul>
 </div>
-{% endfor %}
-
-{% if site.data.awards %}
-<div class="col-sm-6">
-### Awards and Grants
-<ul>
-{% for award in site.data.awards %}
- <li> {{ award.name | replace: "-","&#8211;"}} </li>
 {% endfor %}
 </ul>
 </div>
