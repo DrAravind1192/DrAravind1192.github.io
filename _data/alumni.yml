@@ -1,7 +1,13 @@
-- name: IIT Gandhinagar
+- name: PRL, Ahmedabad
+  photo: rock.jpg
+  duration: 2022-2024
+  info: Post-Doctoral Research
+  email: aravind139@gmail.com
+
+- name: IIT Gandhinagar/PRL Ahmedabad
   photo: rock.jpg
   duration: 2017-2022
-  info: Now at PRL, Ahmedabad
+  info: PhD in Physics (Astronomy)
   email: aravind.k@iitgn.co.in 
   
 - name: Loyola College, Chennai
