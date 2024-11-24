@@ -127,6 +127,8 @@ permalink: /about/
 {% for grant in grants %}
  <li> {{ grant.name | replace: "-","&#8211;"}} </li>
 {% endfor %}
+</ul>
+</div>
 
 {% if site.data.awards %}
 <div class="col-sm-6">
