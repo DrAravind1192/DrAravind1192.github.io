@@ -217,6 +217,22 @@ Umesh Chandra Joshi.</p>
   <p>JOURNAL: SF2A-2023, Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics.</p>
   <p>Conference: Annual meeting of the French Society of Astronomy and Astrophysics</p>
   <p>YEAR: 2023 </p>
+
+  <h3>10) Pre-perihelion TRAPPIST monitoring of the outbursting Halley- type comet 12P/Pons-Brooks</h3>
+  <p class="authors">Mathieu Vander Donckt, Emmanuel Jehin, Aravind Krishnakumar, Christophe Adami, Said
+Hmiddouch, Shashikiran Ganesh, Zouhair Benkhaldoun, Audrey Delsanti, and Abdelhadi Jabiri.</p>
+  <p>DOI: <a href="https://doi.org/10.5194/epsc2024-951">https://doi.org/10.5194/epsc2024-951</a></p>
+  <p>Conference: Europlanet Science Congress</p>
+  <p>YEAR: 2024 </p>
+
+   <hr>
+
+   <h3>11) Long-term TRAPPIST monitoring of a few Long Period and Dynamically New Comets</h3>
+  <p class="authors">Said Hmiddouch, Emmanuel Jehin, Abdelhadi Jabiri, Youssef Moulane, Aravind Krishnakumar, Mathieu Vander Donckt, Goldy Ahuja, Zouhair Benkhaldoun, and Shashikiran Ganesh.</p>
+  <p>DOI: <a href="https://doi.org/10.5194/epsc2024-1139">https://doi.org/10.5194/epsc2024-1139</a></p>
+  <p>Conference: Europlanet Science Congress</p>
+  <p>YEAR: 2024 </p>
+  
   </div>
 </div>
 
