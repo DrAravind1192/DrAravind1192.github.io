@@ -87,7 +87,7 @@ Comet 156P/Russell-LINEAR is a short period Jupiter family comet with an orbital
   <h3>Unique regolith characteristics of the lunar swirl Reiner Gamma as revealed by imaging polarimetry at large phase angles</h3>
 
   <p class="authors">M. Bhatt, C. Wöhler, J. Rogall, K. Aravind, S. Ganesh and A. Bhardwaj</p>
-  <p>DOI: <a href="https://doi.org/10.1016/j.icarus.2022.115042">10.1016/j.icarus.2022.115042</a></p>
+  <p>DOI: <a href="https://doi.org/10.1051/0004-6361/202245356">10.1051/0004-6361/202245356</a></p>
 
   <h4>Abstract:</h4>
 <p align="justify">  
