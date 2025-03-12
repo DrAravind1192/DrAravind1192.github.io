@@ -101,10 +101,10 @@ The possibility of using the existing archived data set of TRAPPIST and CRIRES+ 
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>M.Sc. Course</h4>
+<h4><u>M.Sc. Course</u></h4>
 Project titled “Wet Chemical Synthesis and Characterization of CdS Nanoparticles'', under the guidance of Dr N. S. Nirmala Jothi, Assistant Professor, Loyola College.
 
-<h4>PhD Course work</h4>
+<h4><u>PhD Course work</u></h4>
 <p align="justify">
 Project titled  ``Stability analysis of optical spectrograph used in the 1.2m Telescope at Mt.Abu'', under the guidance of Dr Shashikiran Ganesh, Physical Research Laboratory, Ahmedabad. This project involved the extensive use of Image Reduction and Analysis Facility (IRAF) to reduce and analyse spectroscopic data to get a rough picture of the telescope's and detector's stability during observations.
 </p>
