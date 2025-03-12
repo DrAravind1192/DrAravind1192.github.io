@@ -37,7 +37,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Observational analysis of Cometary bodies in the Solar System</h4>
+<h4><u>Observational analysis of Cometary bodies in the Solar System</u></h4>
 <p align="justify">
 Comets, as the most ancient relics of our solar system, offer a wealth of information about the conditions prevailing during its early stages. Indian telescopes were employed to conduct low-resolution spectroscopic analyses on 22 comets, including those from diverse reservoirs and the only interstellar comet 2I/Borisov. Additionally, high-resolution spectroscopic, imaging, and polarimetric observations were carried out on selected comets to investigate these celestial bodies rich in pristine volatile materials.
 </p>
